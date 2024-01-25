@@ -1,6 +1,6 @@
 # Nour Hatwik
 
-![photo](Nour Hatwik.jpg)
+<img src="" width="400" height="500"> 
 
 Photo de moi via une installation de Kosisochukwu Nnebe, *an inheritance - a threat - a haunting*, Biennale Afflux, décembre 2023
 
