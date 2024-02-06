@@ -47,6 +47,11 @@
 <img src="/semaine-02/WhatsApp Image 2024-02-06 à 01.01.17_9e2ce0f2.jpg">
 
 13. Éléments nécessaires à la mise en exposition: Des sept écrans , la grande salle et les Haut-parleurs.
+<img src="/semaine-02/WhatsApp Image 2024-02-06 à 01.52.33_0e53aaf4.jpg">
+<img src="/semaine-02/WhatsApp Image 2024-02-06 à 01.52.33_192e766e.jpg">
+<img src="/semaine-02/WhatsApp Image 2024-02-06 à 01.52.33_ea79dba3.jpg">
+<img src="/semaine-02/WhatsApp Image 2024-02-06 à 01.52.33_72d62444.jpg">
+
 14. Expérience vécue: C'était une bonne visite, mais étrange à la meme temps. Lorsque nous sommes entrés dans une grande salle, j'ai vu sept grands écrans montrant des gens pratiquant des danses étranges et incompréhensibles. Puis les écrans ont commencé à montrer tous les gens faisant les mêmes mouvements, puis des couleurs. est apparu mêlé à une musique forte.
 
 14: © Ce qui vous a plu, vous a donné des idées: J'ai aimé les couleurs des écrans, et même si les vidéos étaient anciennes, elles étaient claires et j'ai aimé le type de musique joué, qui était relaxant.	
