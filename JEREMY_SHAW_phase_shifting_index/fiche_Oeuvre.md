@@ -6,6 +6,9 @@
 
 Le titre de l'oeuvre est Phase Shifting Index de l'artiste Jeremy Shaw et la Fonderie Darling a l'accueilli. C'était de type d'exposition intérieure et il était présenté par le Mac. Aussi, l'année de réalisation est en 2004.
 
+![image](media/vidéo1.jpg)
+
+
 Notre classe l'a visité le matin de 31 janvier 2024.
 
 ## **Description de l'oeuvre:**
