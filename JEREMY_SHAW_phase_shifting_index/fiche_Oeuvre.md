@@ -1,5 +1,6 @@
 # Jeremy Shaw: Phase Shifting Index
-<img src="/JEREMY_SHAW_phase_shifting_index/media/vue d'ensemble de l'oeuvre 1.jpg">
+
+![image](media/vue d'ensemble de l'oeuvre 1.jpg)
 
 ## **Nom de l'événement:**
 Le nom de l'événement est Video installation DMT
