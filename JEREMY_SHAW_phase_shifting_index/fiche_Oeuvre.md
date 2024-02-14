@@ -1,9 +1,15 @@
-1. Nom de l'exposition ou de l'événement: Video installation DMT.
+# Jeremy Shaw: Phase Shifting Index
+<img src="/JEREMY_SHAW_phase_shifting_index/media/vue d'ensemble de l'oeuvre 1.jpg">
+
+## **Nom de l'événement:**
+Le nom de l'événement est Video installation DMT
+
 <img src="/JEREMY_SHAW_phase_shifting_index/media/hy.jpg"> 
 <img src="/JEREMY_SHAW_phase_shifting_index/media/Afiche de l'exposition 1.jpg"> 
 <img src="/JEREMY_SHAW_phase_shifting_index/media//Afiche de l'exposition 2.jpg"> 
 
-2. Lieu de mise en exposition: Fonderie darling.
+## **Le lieu:**
+Ce Fonderie darling
 <img src="/JEREMY_SHAW_phase_shifting_index/media/vous devant l'entrée de l'édifice.jpg"> 
 
 3. Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure): intérieure.
