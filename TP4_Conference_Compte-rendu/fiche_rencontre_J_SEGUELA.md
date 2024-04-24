@@ -17,13 +17,8 @@ En fait, elle a parlé d'un studio qui compte une équipe de vingt-six personnes
 En conclusion, la conférence était belle, les points étaient clairs et faciles à comprendre, et ils étaient expliqués de manière compréhensible et l'explication était simple.
 
 <img src="/TP4_Conference_Compte-rendu/media/Rafael.png"> 
-
 <img src="/TP4_Conference_Compte-rendu/media/Équipe.png"> 
-
 <img src="/TP4_Conference_Compte-rendu/media/3Cas1.png"> 
-
 <img src="/TP4_Conference_Compte-rendu/media/2Cas2.png"> 
-
-<img src="/TP4_Conference_Compte-rendu/media/Oeuvre.png"> 
-
-<img src="/TP4_Conference_Compte-rendu/media/Rafael.png"> 
+<img src="/TP4_Conference_Compte-rendu/media/Oeuvre.png">
+<img src="/TP4_Conference_Compte-rendu/media/Studio1.png"> 
