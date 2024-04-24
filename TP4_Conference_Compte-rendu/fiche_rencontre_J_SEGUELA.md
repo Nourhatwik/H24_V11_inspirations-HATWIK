@@ -3,7 +3,7 @@
 <img src="/TP4_Conference_Compte-rendu/media/Rafael Lozano-Hemmer.jpg"> 
 À consulter ici:
 
-<https://www.gameloft.com/](https://art21.org/wp-content/uploads/2020/08/lozano-hemmer-rafael-bio-sq-1.jpg>
+<https://art21.org/artist/rafael-lozano-hemmer/>
 
   
   Premièrement, la conférence débute par la présentation de Jade Séguéla, spécialiste en Multimedia, de l’art, a DEC des Arts et Lettres et d’une maîtrise en muséologie. Ensuite, il y avait la présentation de l'artiste mexicain Rafael Lozano-Hemmer, qui possède plusieurs œuvres qui encouragent le dialogue. Il est diplômé en chimie physique de l'Université Concordia à Montréal et son art est un mélange de différents arts : poésie, politique et technologie.
