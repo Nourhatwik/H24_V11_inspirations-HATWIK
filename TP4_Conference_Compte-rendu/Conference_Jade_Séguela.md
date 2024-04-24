@@ -1,4 +1,4 @@
-## **La conférence**
+# La conférence
 
 <img src="/TP4_Conference_Compte-rendu/media/Rafael Lozano-Hemmer.jpg"> 
 
@@ -7,7 +7,9 @@ Elle a ensuite présenté l'équipe de gestion qu'il est divisé en quatre secti
 En plus elle a expliqué les dispositifs présents dans chaque cas : lumière, son et projection et aussi, elle a expliqué les deux interactivité (passive et active) et leurs parties.
 En fait, elle a parlé d'un studio qui compte une équipe de vingt-six personnes travaillant à temps plein. Ils viennent de dix pays différents et d’horizons différents en tant que programmeurs, artistes, scientifiques, designers et écrivains qui aiment vraiment leur travail.
 
-## **La conférence**
+## **quelques photos:**
+
+<img src="/TP4_Conference_Compte-rendu/media/Rafael.jpg"> 
 
 
 
