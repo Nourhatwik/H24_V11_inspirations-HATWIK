@@ -37,5 +37,4 @@ Mais il y avait aussi des aspects que je ferais différemment. Par exemple, dans
 ## **Références:**
 L'adresse ci-dessous mène à une page qui explique davantage le sujet. 
 Pour parcourir, cliquez ici:
-<https://www.gameloft.com/>
-
+<https://tim-montmorency.com/2024/>
