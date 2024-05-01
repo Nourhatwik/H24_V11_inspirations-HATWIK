@@ -1,1 +1,1 @@
-
+Dans le dossier fiche_Centre_des_sciences_expositions.md, on retrouve: Les informations sur l'exposition, la description de l'oeuvre, La fonction du dispositif multimédia, Mise en espace, Composantes et techniques et mise en exposition, l'expérience vécue, que j'aime et que je n'aime pas et les références.
