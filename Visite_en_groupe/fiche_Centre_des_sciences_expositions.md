@@ -21,11 +21,16 @@ Le Centre des sciences de Montréal est un musée scientifique situé à Montré
 Cela permet aux personnes qui aiment la connaissance d’en apprendre davantage et de s’amuser en l’apprenant.
 Le projet leur permet de vivre une expérience tactile unique et différente et offre également une merveilleuse expérience de sentir que nous sommes comme des scientifiques, des médecins et des ingénieurs et que nous pouvons interagir.
 
-<img src="/Visite_en_groupe/media/Type-d'installation.mp4"> 
+https://github.com/Nourhatwik/H24_V11_inspirations-HATWIK/assets/142917957/09398637-5aa2-441e-940b-b3a96e70b7a1
+
+
 <img src="/Visite_en_groupe/media/Type-d'installation1.jpg"> 
 <img src="/Visite_en_groupe/media/Type-d'installation2.jpg"> 
 <img src="/Visite_en_groupe/media/Type-d'installation3.jpg"> 
-<img src="/Visite_en_groupe/media/Fonction_du_dispositif.mp4"> 
+
+
+https://github.com/Nourhatwik/H24_V11_inspirations-HATWIK/assets/142917957/cc7a4994-4658-4189-b151-1342aaaa790a
+
 
 ## **Mise en espace:**
 
