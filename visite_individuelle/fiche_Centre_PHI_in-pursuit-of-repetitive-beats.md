@@ -3,13 +3,13 @@
 <img src="/visite_individuelle/media/sortie_individuel.png"> 
 
 ## **Informations sur l'exposition:**
-Crescentia met en avant la notion d'évolution qui apparaît sous de nombreux aspects, qu'ils soient organiques, environnementaux ou encore psychologiques. Cet événement s'est passé à l'école dans le grand studio, il était intérieure et il est passé le 21 février. Le titre de l'oeuvre est Crescentia des étudiants de troisième année.
+In pursuit of repetitive beats de l'artiste primé Darren Emerson, est une aventure de réalité virtuelle interactive et documentaire qui transporte le public à l'apogée de la scène illégale Acid House de la fin des années 1980 au Royaume-Uni et c'était produit en 2006.
 
 <img src="/visite_individuelle/media/l'entrée _d'édifice.jpg">  
 
 ## **Description de l'oeuvre:**
 
-C'est l'exposition finale des étudiants en techniques d'intégration multimédia du Collège Montmorency dont les œuvres sont des créations en mouvement constant, se transformant par les actions des visiteurs et l'installation est interactive.
+Nous sommes en 1989 et la culture rave est à son apogée en Angleterre. Des raves illégaux sont organisés dans tout le pays, dans des entrepôts abandonnés et d'autres lieux isolés. Un jeu du chat et de la souris s'instaure entre les organisateur·trice·s et la police : mais une fois qu'un rave a commencé, la police n'a plus aucun moyen de l'arrêter et l'installation est intérieure.
 
 <img src="/visite_individuelle/media/Cartel.jpg">  
 <img src="/visite_individuelle/media/Cartel2.jpg">  
@@ -17,38 +17,42 @@ C'est l'exposition finale des étudiants en techniques d'intégration multimédi
 
 ## **La fonction du dispositif multimédia:**
 
-Chaque action interactive relie une personne à quelque chose. Par exemple, «Rhizomatique» relie une personne au temps et «Canevas Cosmique» au système solaire.
-Les cinq projets permettent aux gens de vivre une expérience tactile unique et différente. Dans le projet Rhizomatique et en cliquant sur le Web, une personne peut découvrir ses souvenirs, Effet-Papillon engage une personne à voir de la graine à la pomme, mettant en évidence l'idée complexe de l'effet papillon, Kigo fait essayer un jeu de néon pour vivre une expérience différente, Sonalux présente un monde d'art génératif où il répensant la notion de temps et enfin, Canevas Cosmique fait vivre une expérience merveilleuse en voyant un écran contenant un système solaire, avec lequel il peut interagir en plaçant des statues qui évoquent différents phénomènes.
+Chaque action interactive connecte une personne à quelque chose. Par exemple, cela ramène une personne dans le temps et lui fait vivre l’expérience des années 1980.
+Le projet permet aux gens de vivre une expérience tactile unique et différente et offre également une expérience merveilleuse en sentant que nous sommes à l'intérieur du jeu et que nous pouvons interagir.
 
 <img src="/visite_individuelle/media/Fonction_du_dispositif.jpg"> 
 <img src="/visite_individuelle/media/Fonction_du_dispositif2.jpg">
 
 ## **Mise en espace:**
 
-Notre classe est allée sur deux jours différents, et la deuxième fois, les projets ont été développés par les étudiants d'une manière belle et confortable à utiliser. En plus, il y avait quatre projets dans le grand studio, chaque projet étant affiché seul sur un grand mur, et un projet seul dans la salle voisine.
+Le matin, je pars seul pour Montréal. Je suis entrée dans la place et il y avait une grande salle d'attente devant moi. J'ai attendu qu'ils m'appellent et j'ai grimpé une échelle avec l'un d'eux et nous sommes entrés dans une salle avec une lumière tamisée. Il n'y avait que quelques néons bleus. Dans le hall, il y avait des flèches sur le sol et la pièce était divisée, mais sans murs, avec des lignes sur la terre.
+Puis j'ai mis des lunettes électroniques et j'ai tendu deux mains reliées à un sac à dos électronique.
 
 <img src="/visite_individuelle/media/Vue_d'ensemble.jpg">
 
 ## **Composantes et techniques et mise en exposition:**
 
-Les éléments qui composent l'œuvre ou l'appareil étaient différents, notamment les ordinateurs et les appareils électroniques, les lumières, les haut-parleurs et les écouteurs pour la musique et le son, ainsi que les appareils sensoriels pour le toucher et la capacité de ressentir davantage.
-De plus, il n'y avait pas de chaises sur lesquelles s'asseoir, tout était debout. Il y avait de nombreux câbles dans chaque pièce connectés à des ordinateurs, des sacs de sable pour ouvrir la porte afin qu'une personne puisse sortir et entrer dans la pièce, et les lumières de la pièce étaient légèrement tamisées, afin que les yeux se concentrent davantage sur le projets
+Les éléments qui composent l'œuvre ou l'appareil étaient différents, notamment Sac à dos électronique, appareils électroniques, lumières, écouteurs pour la musique et le son, et appareils sensoriels pour le toucher, deux mains électroniques pour ressentir davantage.
+Il n’y avait pas de chaises pour s’asseoir et tout se faisait à pied. Les lumières dans la pièce étaient un peu faibles, donc les yeux se concentraient davantage sur les projets.
 
 <img src="/visite_individuelle/media/Parties_composantes_d'oeuvre.jpg">
 <img src="/visite_individuelle/media/Parties_composantes_d'oeuvre2.jpg"> 
 
 ## **Expérience vécue:**
 
-Ce que l'on attend du visiteur, c'est qu'il éprouve suffisamment de plaisir pour qu'il quitte les lieux avec grand plaisir et vive une nouvelle expérience agréable.
-Sur une note plus personnelle, avant d'entrer en studio, je pensais que c'était un projet normal, mais quand j'entrais à l'intérieur et essayais chaque projet l'un après l'autre, j'éprouvais un grand plaisir.
-Les couleurs provenant des écrans m'ont attiré, comme le bleu et le mauve, et chaque projet avait sa propre saveur différente de l'autre. De plus, la musique était calme et relaxante, me donnant l'impression d'être dans un autre monde.
+Le visiteur est censé se sentir suffisamment satisfait pour quitter les lieux avec grand plaisir et vivre une nouvelle expérience agréable.
+Sur le plan personnel, lorsque je suis entré dans la salle et que l'expérience a commencé, j'ai ressenti beaucoup de bonheur et de joie.
+J'étais attiré par les couleurs provenant des verres, comme le bleu et l'orange, et elles avaient une saveur différente. De plus, la musique était calme et relaxante et le discours dans les écouteurs était clair, ce qui me donnait l'impression d'être dans un autre monde.
 
 <img src="/visite_individuelle/media/Posture_du_visiteur.png"> 
 
 ## **Que j'aime et que je n'aime pas:**
-Il y avait plus d'un aspect inspirant qui m'a donné des idées différentes et nouvelles. Par exemple, le projet Canevas Cosmique m'a inspiré l'idée d'un écran tactile avec de petites figures représentant chaque planète du système solaire qui contrôlent un écran d'affichage plus grand sur le mur.
-J'ai aussi aimé les lumières provenant des écrans dans des couleurs attrayantes comme le bleu, le mauve et l'orange. Enfin, j'ai aimé qu'ils mettent une musique calme et relaxante.
-Mais il y avait aussi des aspects que je ferais différemment. Par exemple, dans le projet Sonalux, les formes provenant de l'écran se déplaçaient de manière aléatoire, ce qui était gênant à l'œil. En plus, j'organiserai plus de câbles car j'ai remarqué qu'ils étaient répartis partout.
+
+Il y avait plus d’un côté inspirant qui m’a donné des idées différentes et nouvelles. Par exemple, le projet m'a inspiré l'idée de faire entrer les gens et de vivre une véritable expérience où ils peuvent toucher et sentir les objets.
+De plus, il contient de nombreuses voitures, et je fais partie de ceux qui aiment les voitures.
+J'ai aussi aimé les couleurs attrayantes des lunettes, comme le bleu, le violet et l'orange. Enfin, j'ai aimé qu'ils mettent une musique calme et relaxante.
+Mais il y a aussi des aspects que j’aurais faits différemment. Par exemple, je demanderais à l'utilisateur de sélectionner la langue de son choix, pas seulement l'anglais.
+De plus, les personnages de l'expérience avaient une apparence un peu effrayante, en plus du fait qu'ils disparaissaient soudainement et apparaissaient à différents endroits, ce qui était un peu effrayant et étrange.
 
 <img src="/visite_individuelle/media/j'aime.png"> 
 <img src="/visite_individuelle/media/j'aime2.png"> 
@@ -57,4 +61,4 @@ Mais il y avait aussi des aspects que je ferais différemment. Par exemple, dans
 ## **Références:**
 L'adresse ci-dessous mène à une page qui explique davantage le sujet. 
 Pour parcourir, cliquez ici:
-<https://phi.ca/fr/evenements/in-pursuit-of-repetitive-beats/?_gl=1*h7e0m4*_up*MQ..*_ga*OTQ2Mzc0ODA0LjE3MDc4NjI0NDM.*_ga_440GTKD9N9*MTcwNzg2MjQ0Mi4xLjAuMTcwNzg2MjQ0Mi42MC4wLjA.>
+<https://phi.ca/fr/evenements/in-pursuit-of-repetitive-beats/#plus-infos>
