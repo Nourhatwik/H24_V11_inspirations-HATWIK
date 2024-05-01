@@ -6,7 +6,7 @@
 Centre des sciences a des expositions dynamiques, participatives et passionnantes pour explorer la science et la technologie qui façonnent nos vies! Expérimenter les innombrables retombées de l'essor scientifique et technique, imaginez le futur et découvrez l'impact des enjeux environnementaux dans des espaces stimulants où on peut toucher, manipuler, tester grâce aux dispositifs interactifs.
 La Société du Vieux-Port de Montréal s'est donné pour mission de gérer et de développer un parc récréotouristique urbain. L'idée d'une programmation dédiée aux sciences et aux technologies germait déjà dans l'esprit des administrateurs, ce qui a mené à l'organisation d'Expotec inauguré le 1er mai 2000, sur l'emplacement des anciennes expositions Expotec. En 2002, le nom est changé en Centre des sciences de Montréal. Sa mission est de contribuer à ce que chaque individu devienne capable de s'approprier les sciences et les technologies pour construire son avenir.
 
-<img src="/Visite_en_groupe/media/Vue_d'ensemble"> 
+<img src="/Visite_en_groupe/media/Vue_d'ensemble.jpg"> 
 
 ## **Description de l'oeuvre:**
 
